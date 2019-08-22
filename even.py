@@ -15,5 +15,15 @@ for j in numbers:
 print("even elements ", even_lst)        
 
 
-
+'''
+ ==============
+Enter number of elements: 	4
+Enter element:2
+Enter element:4
+Enter element:5
+Enter element:7
+all the elements  [2, 4, 5, 7]
+even elements  [2, 4]
+>>> 
+'''
         
